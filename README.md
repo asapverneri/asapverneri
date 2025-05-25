@@ -1,11 +1,6 @@
-## It's me, asapverneri
-
-Hi, I'm Verneri from Finland, an enthusiastic beginner in the world of software development who got excited about GitHub a while ago. 
+Hi, I'm Verneri from Finland, an enthusiastic beginner in the world of software development. 
 I'm passionate about innovation and technology, and I enjoy diving into challenging projects to sharpen my skills. 
 I'm constantly learning and excited to grow as a developer!
-
-- 🌱 Currently learning: Web development
-- 💬 Ask me about: Anything
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asapverneri&color=blueviolet)
 
